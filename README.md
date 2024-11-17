@@ -88,7 +88,7 @@ For Transient Analysis Settings and Output
 )
 
 !(![asheem vlsi 4th exp output](https://github.com/user-attachments/assets/58eb39ea-5022-43a2-ac69-988b4bfa3522)
-)
+
 
 
 Results:
