@@ -47,7 +47,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0021](https://github.com/user-attachments/assets/31694272-dca3-40a2-8f86-265f8b0aba2e)
+![asheem vlsi 4th exp 1](https://github.com/user-attachments/assets/60cc3105-1e20-4a8b-a64f-9770438818d5)
+)
 
 
 
@@ -76,15 +77,18 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
-![IMG-20241019-WA0026](https://github.com/user-attachments/assets/df19d988-37b1-4de9-acb9-4709f3b7474c)
+!(![asheem vlsi 4th exp 2](https://github.com/user-attachments/assets/4e8130d6-09fd-4905-85b7-60c7b9c8d328)
+)
 
 
 For Transient Analysis Settings and Output
 
 
-![IMG-20241019-WA0024](https://github.com/user-attachments/assets/40461d9e-0487-4d64-8119-5ccbbf2e4628)
+!(![asheem vlsi 4th exp 3](https://github.com/user-attachments/assets/f72a70e6-5d99-4599-acf7-caf12a807055)
+)
 
-![IMG-20241019-WA0023](https://github.com/user-attachments/assets/f7a02f13-935d-4320-b057-9d9bca02af82)
+!(![asheem vlsi 4th exp output](https://github.com/user-attachments/assets/58eb39ea-5022-43a2-ac69-988b4bfa3522)
+)
 
 
 Results:
